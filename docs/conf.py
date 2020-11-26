@@ -65,6 +65,11 @@ html_theme_options = {
     'bootswatch_theme': "journal",
     'navbar_links': [
         ("projects", "projects", 1),
-        ("Link", "http://example.com", True),
+        ("contact", "contact", 1),
+        ("link", "http://example.com", True),
     ],
 }
+
+html_css_files = [
+    'css/custom-basic.css',
+]

@@ -1,0 +1,10 @@
+/** css/custom-basic.css **/
+
+/* This line is theme specific - it includes the base theme CSS */
+/* @import '../alabaster.css';  for Alabaster */
+/*@import 'theme.css';       /* for the Read the Docs theme */
+@import '../basic.css';
+div.body {
+    min-width: 300px;
+    max-width: 800px;
+}
