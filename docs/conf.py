@@ -59,7 +59,7 @@ html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 html_theme_options = {
-    'navbar_sidebarrel': False,
+    'navbar_sidebarrel': True,
     'navbar_pagenav': False,
     'source_link_position': "footer",
     'bootswatch_theme': "journal",
