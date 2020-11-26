@@ -73,3 +73,5 @@ html_theme_options = {
 html_css_files = [
     'css/custom-basic.css',
 ]
+
+html_title = "Damian Krawczyk"
